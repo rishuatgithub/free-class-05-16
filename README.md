@@ -10,5 +10,5 @@ Adding agenda
 
 * reset
 * reflog
-* revert
+
 * rebase
