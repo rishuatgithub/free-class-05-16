@@ -3,3 +3,12 @@
 ## demonstrating redo debase sample test
 
 demo for redo rebase
+
+---
+
+Adding agenda
+
+* reset
+* reflog
+* revert
+* rebase
